@@ -1,0 +1,70 @@
+@import "bootstrap";
+
+#container {
+	text-align: none;
+	padding: 20px 0;
+}
+
+#logo {
+	font-family: 'Arvo', serif;
+	font-weight: 700;
+	font-size: 1.7em;
+	color: #ff4c0e;
+	letter-spacing: -0.05em;
+}
+
+.background {
+	padding: 0px 0;
+	background-color: #b3b3b3;
+	/*background-image: url(img/seneey-cool.jpg);*/
+	background-size: 100%;
+	background-repeat: no-repeat;
+	min-width: 1200px;
+}
+
+.bigguy {
+	min-height: 400px; 
+	margin-top: 40px;
+}
+
+.spacebefore {
+	margin-top: 50px;
+}
+
+.shadow {
+  -webkit-box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.1);
+     -moz-box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.1);
+}
+
+/*.darkshadow {
+  -webkit-box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.3);
+     -moz-box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.3);
+} */
+
+h1 {
+	font-family: 'Expletus Sans', Arial, sans-serif;
+	font-size: 1.5em;
+	line-height: 1.4em;
+}
+
+h2 {
+	font-family: 'Expletus Sans', Arial, sans-serif;
+	font-size: 2.5em;
+	color: #ffffff;
+	text-shadow: 0px 3px 10px #000;
+}
+
+h3 {
+	font-family: 'Expletus Sans', Arial, sans-serif;
+	font-size: 1.5em;
+	color: #ff4c0e;
+}
+
+p {
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 0.9em;
+	text-align: left;
+
+}
